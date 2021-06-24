@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          [Hey I am Saravpreet. I'm an engineering student and currently
+          Hey I am Saravpreet. I'm an engineering student and currently
           interning at sprinklr.
         </p>
         <p>
